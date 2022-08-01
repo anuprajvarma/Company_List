@@ -1,4 +1,3 @@
-# LIST of international companies hiring directly from India. These companies support VISA & relocation as well.
 
 ## LONDON
 
