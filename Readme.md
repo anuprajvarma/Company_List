@@ -1,3 +1,5 @@
+# LIST of international companies hiring directly from India. These companies support VISA & relocation as well.
+
 
 ## LONDON
 
@@ -28,7 +30,8 @@
 - Palantir Technologies
 
  
-BERLIN, GERMANY
+## BERLIN, GERMANY
+
 - Amazon
 - Google, Munich
 - Zalando
@@ -60,7 +63,8 @@ BERLIN, GERMANY
 - Project Plato
 - Contentful
  
-AMSTERDAM, NETHERLANDS
+## AMSTERDAM, NETHERLANDS
+
 - Databricks
 - Uber
 - Optiver
@@ -79,7 +83,7 @@ AMSTERDAM, NETHERLANDS
 - Adidas
 - Project Plato
  
-DUBLIN, IRELAND
+## DUBLIN, IRELAND
 - Microsoft
 - Amazon
 - Verizon Connect
@@ -91,32 +95,32 @@ DUBLIN, IRELAND
 - Etsy
 - Contentful
  
-LUXEMBOURG
+## LUXEMBOURG
 - Amazon
  
-GLASGOW, SCOTLAND
+## GLASGOW, SCOTLAND
 - JPMC
  
-WARSAW, POLAND
+## WARSAW, POLAND
 - Google
 - Glovo
  
-ZURICH, SWITZERLAND
+## ZURICH, SWITZERLAND
 - EF Education First
  
-RIGA, LATIVA
+## RIGA, LATIVA
 - Swisscom
  
-AUSTRIA
+## AUSTRIA
 - Agentur loop
  
-PARIS
+## PARIS
 - BlaBlaCar
 - Getaround
 - DataDog
 - Deezer
  
-SINGAPORE
+## SINGAPORE
 - Bytedance
 - Shopee
 - Grab
@@ -126,14 +130,14 @@ SINGAPORE
 - Zendesk
 - Circles.life
  
-JAPAN
+## JAPAN
 - Mercari
 - Fastretailing
  
-BANGKOK, THAILAND
+## BANGKOK, THAILAND
 - Agoda
  
-CANADA
+## CANADA
 - Amazon
 - Meta
 - Microsoft
@@ -142,7 +146,7 @@ CANADA
 - Square
 - Shopify
  
-SPAIN
+## SPAIN
 - Taxfix
 - Blinkist
 - Kiwi.com
